@@ -1,5 +1,5 @@
 # 💫 About Me:
-About Me:<br>🌟 Data Science Enthusiast |<br>📊 Statistics |<br>🗄️ SQL & NoSQL |<br>🤖 Machine Learning |<br>🌐 Natural Language Processing |<br>📈 Data Analytics<br>🐍 Python<br>📑 Power BI<br><br>🌐 Social | <br> LLM
+About Me:<br>🌟 Data Science Enthusiast |<br>📊 Statistics |<br>🗄️ SQL & NoSQL |<br>🤖 Machine Learning |<br>🌐 Natural Language Processing |<br> LLM |<br>📈 Data Analytics<br>🐍 Python<br>📑 Power BI<br><br>🌐 Social 
 
 
 ## 🌐 Socials:
